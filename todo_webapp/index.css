@@ -1,0 +1,14 @@
+
+  .footer {
+    margin-right: 80px;
+    margin-left: 80px;
+  }
+  .footer p {
+    font-family: verdana;
+    font-size: 14px;
+    border-top: 1px #aab530 solid;
+    text-align: center;
+  }
+  .footer a:hover {
+    color: #aab530;
+  }
